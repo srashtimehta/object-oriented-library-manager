@@ -1,0 +1,12 @@
+# Object-Oriented Library Manager data file
+[BOOKS]
+101|The Alchemist|Paulo Coelho|Fiction|1
+102|Clean Code|Robert C. Martin|Programming|1
+103|Atomic Habits|James Clear|Self Help|1
+104|C++ Primer|Stanley B. Lippman|Programming|1
+[MEMBERS]
+201|Aarav Sharma|aarav@example.com
+202|Priya Singh|priya@example.com
+203|Rohan Verma|rohan@example.com
+[LOANS]
+101|201|2026-10-05|2026-10-06|1
